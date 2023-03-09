@@ -2,7 +2,7 @@
 This repository is created to record my journey of learning Go programming language. It contains various examples and exercises I have worked on during my learning process.
 
 ## Getting Started
-- Install Go: Official Installation Guide
+- Install Go: [Official Installation Guide](https://go.dev/doc/install)
 
 - Clone this repository to your local machine:
   ```bash
