@@ -8,7 +8,6 @@ import (
 	"log"
 	"math"
 	"net/http"
-	"strings"
 )
 
 const (
